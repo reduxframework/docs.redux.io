@@ -16,7 +16,7 @@
     "vue": "^2.6.10",
     "vue-form-generator": "^2.3.4",
     "vue-multiselect": "^2.1.6",
-    "vuepress": "^1.0.2",
+    "vuepress": "^1.8.0",
     "vuepress-plugin-clean-urls": "^1.0.3",
     "vuepress-plugin-container": "^2.0.2",
     "vuepress-plugin-copyright": "^1.0.2",

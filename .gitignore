@@ -10,3 +10,4 @@ yarn.error.log
 .ideas
 .idea
 .DS_Store
+/nbproject/private/
