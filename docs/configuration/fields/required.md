@@ -41,6 +41,16 @@ array(
     )
 )
 ```
+If you are checking the same key againt a different value then you have to do it as follows:
+
+
+```php
+array(
+    'required' => array( 
+        array( 'LINKED_FIELD_ID_1', 'OPERATION_1', array( 'VALUE_1', 'VALUE_2' ) )
+    )
+)
+```
 
 ## Operations Available
 
